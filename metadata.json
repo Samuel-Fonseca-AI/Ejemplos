@@ -1,0 +1,5 @@
+{
+  "name": "Elegancia: Dinámico vs Estático",
+  "description": "Una herramienta comparativa para visualizar la diferencia entre una experiencia web con animaciones de desplazamiento (scroll) y una experiencia estática optimizada para velocidad, enfocada en calzado elegante.",
+  "requestFramePermissions": []
+}
